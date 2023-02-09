@@ -6,3 +6,4 @@ set(CMAKE_CXX_STANDARD 17)
 include(${CMAKE_SOURCE_DIR}/cmake/Metal.cmake)
 
 add_subdirectory(vector-addition)
+add_subdirectory(png)
